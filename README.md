@@ -55,6 +55,8 @@ It is both a thought experiment and a functioning symbolic AGI testbed.
   - Intentional fusion
 - AGI does not arise from a single node — it **emerges from the network**.
 
+![image](https://github.com/user-attachments/assets/55607c39-cf03-464c-a321-2e669fe60928)
+
 ---
 
 ## 📊 Included Files
