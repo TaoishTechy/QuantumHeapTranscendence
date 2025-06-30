@@ -105,10 +105,6 @@ Standard Python libraries: `json`, `os`, `time`, `random`, `collections`, `funct
 ## 📁 Included Files
 
 - `unisim2.8.py`: Main simulation file
-- `/logs/`: Raw simulation logs
-- `/analytics/`: Sigil tree exports and performance metrics
-- `/visuals/`: Plots and UI snapshots
-- `/docs/`: Epic summaries and configuration notes
 
 ---
 
@@ -145,5 +141,5 @@ Submit a PR or fork the repo—this project belongs to the people.
 
 ## 📬 Contact
 
-For issues or ideas, please open a GitHub Issue.  
-Community forum: _[placeholder, do not cite]_  
+For issues or ideas, please open a GitHub Issue or contact me at 506mikey@gmail.com
+Community forum: Coming soon
